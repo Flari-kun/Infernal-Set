@@ -1,0 +1,9 @@
+So I kinda forgot to update the description now that I actually finished the mod so:
+
+- Added the Infernal Rifle
+
+- Added the Infernal Bar (Can only be crafted through combining Hellstone and Hallowed Bars)
+
+- Balanced some of the items to be around mid-late Hardmode
+
+- Changed the recipes for all of the items to be made with the infernal bars
